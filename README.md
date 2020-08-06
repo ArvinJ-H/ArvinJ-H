@@ -1,13 +1,12 @@
 ### Hi there, I'm Arvin 👋
 
 ## I'm a Student, Developer, and Photographer!
+
 - 🧑🏻‍🏫 I’m currently studying at **Macquarie University**!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
-
 ### Connect with me:
-
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -32,12 +31,9 @@
 
 ---
 
-<img align="left" alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArvinJ-H&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs" />
-<br />
+<img align="left"  alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArvinJ-H&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs" />
 
-<img align="left" alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinJ-H&layout=compact" />
-
-
+<img align="left" width=100% alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinJ-H&layout=compact&hide_border=true" />
 
 [instagram]: https://instagram.com/arvinhjt
 [linkedin]: https://www.linkedin.com/in/arvin-han-6745a2136/
