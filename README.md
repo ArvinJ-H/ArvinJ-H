@@ -32,6 +32,8 @@
 
 ---
 
+<img align="left" alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArvinJ-H&show_icons=true&hide_border=true" />
+
 
 [instagram]: https://instagram.com/arvinhjt
 [linkedin]: https://www.linkedin.com/in/arvin-han-6745a2136/
