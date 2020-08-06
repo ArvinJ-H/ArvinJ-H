@@ -31,9 +31,9 @@
 
 ---
 
-<img align="left" width=50%  alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArvinJ-H&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs" />
+<img align="left" width=40%  alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArvinJ-H&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs" />
 
-<img align="right" width=50% alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinJ-H&layout=compact&hide_border=true" />
+<img align="right" width=40% alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinJ-H&layout=compact&hide_border=true" />
 
 [instagram]: https://instagram.com/arvinhjt
 [linkedin]: https://www.linkedin.com/in/arvin-han-6745a2136/
