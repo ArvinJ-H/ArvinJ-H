@@ -32,11 +32,7 @@
 
 ---
 
-<img align="left" alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArvinJ-H&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&theme=dark" />
-
----
-
-<br />
+<img align="left" alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArvinJ-H&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs" />
 <br />
 
 <img align="left" alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinJ-H&layout=compact" />
